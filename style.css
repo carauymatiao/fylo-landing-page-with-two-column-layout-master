@@ -50,7 +50,7 @@ h1 {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 6.25rem 5rem;
+  padding: 5rem 5rem 1rem 5rem;
 }
 
 .get-started {
@@ -58,7 +58,7 @@ h1 {
   flex-wrap: wrap-reverse;
   justify-content: space-between;
   align-items: center;
-  padding: 6.25rem 5rem;
+  padding: 1rem 5rem;
 }
 
 .testimonial {
